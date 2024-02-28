@@ -1,0 +1,19 @@
+PART 0 - PLANNING
+-Think about the objects and classes needed and how they inteact with each other
+
+PART 1 - READING CSV FILES
+-Download the CSV file
+-Create a program that reads the CSV file into a list (Datatable?)
+
+PART 2 - PROCESSING THE DATA
+-Create a program that creates an account for each person and keeps track of how much each person owes / is owed
+-Basic Classes needed: Bank, Account, Transactions
+-Tasks:
+*Fetch the names from the "From" column
+*Fetch the names from the "To" column
+*Fetch the transactions from the "Amount" column
+
+PART 3 - MULTIPLE COMMANDS
+-Create a program that:
+*List All: Displays the names of each person and the total amount they owe or are owed
+*List [Account]: Displays every transaction (with date, narrative, to and amount) for the specific account
